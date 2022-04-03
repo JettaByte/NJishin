@@ -1,0 +1,48 @@
+/* .Sindo {
+    font-size: 30px;
+    color:black;
+    width: 180px;
+    height: 180px;
+    background: #c91616;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600&display=swap');
+
+body {
+    background: #07002c;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.Sindo{
+    float: left;
+}
+
+.SindoT {
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    width: 150px;
+    height: 150px;
+    background: #f10d0d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.MEbox {
+    margin-top: 25px;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    width: 500px;
+    height: 150px;
+    background: #0111a0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
