@@ -10,10 +10,16 @@
 } */
 
 @import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap');
+/* 한국어 폰트
+font-family: 'Gothic A1', sans-serif;
+일본어 폰트
+font-family: 'M PLUS Rounded 1c', sans-serif; */
+
 
 body {
     background: #07002c;
-    font-family: 'Gothic A1', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 .Sindo{
@@ -40,8 +46,19 @@ body {
     font-size: 30px;
     color:rgb(255, 255, 255);
     width: 500px;
-    height: 150px;
+    height: 110px;
     background: #0111a0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.EEWi {
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    width: 500px;
+    height: 40px;
+    background: #da0f0f;
     display: flex;
     justify-content: center;
     align-items: center;
