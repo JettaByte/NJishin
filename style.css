@@ -18,47 +18,54 @@ font-family: 'M PLUS Rounded 1c', sans-serif; */
 
 
 body {
-    background: #07002c;
+    background: #05001f;
     font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
-.Sindo{
-    float: left;
+.EEWi {
+    /* margin-top: 25px;
+    margin-left: 25px; */
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    width: 650px;
+    height: 40px;
+    background: #be0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .SindoT {
-    margin-top: 25px;
-    margin-bottom: 30px;
-    margin-left: 25px;
+    /* margin-left: 25px; */
     font-size: 30px;
     color:rgb(255, 255, 255);
     width: 150px;
     height: 150px;
-    background: #f10d0d;
+    background: #f10d9a;
     display: flex;
     justify-content: center;
     align-items: center;
     float: left;
+    vertical-align: top;
 }
 
 .MEbox {
-    margin-top: 25px;
     font-size: 30px;
     color:rgb(255, 255, 255);
     width: 500px;
     height: 110px;
-    background: #0111a0;
+    background: #380000;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.EEWi {
+.DMbox {
     font-size: 20px;
     color:rgb(255, 255, 255);
     width: 500px;
     height: 40px;
-    background: #da0f0f;
+    background: #020064;
     display: flex;
     justify-content: center;
     align-items: center;
