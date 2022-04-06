@@ -40,21 +40,21 @@ body {
     font-size: 30px;
     color:rgb(255, 255, 255);
     width: 150px;
-    height: 150px;
-    background: #f10d9a;
+    height: 130px;
+    background: #FF7300;
     display: flex;
-    justify-content: center;
+    justify-content: center;    
     align-items: center;
     float: left;
     vertical-align: top;
 }
 
-.MEbox {
+.MAGbox {
     font-size: 30px;
     color:rgb(255, 255, 255);
     width: 500px;
-    height: 110px;
-    background: #380000;
+    height: 130px;
+    background: #F02727;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +63,7 @@ body {
 .DMbox {
     font-size: 20px;
     color:rgb(255, 255, 255);
-    width: 500px;
+    width: 650px;
     height: 40px;
     background: #020064;
     display: flex;
