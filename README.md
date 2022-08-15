@@ -1,2 +1,2 @@
 # NJishin
-Woring  
+I hate naumwiki
