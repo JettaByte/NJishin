@@ -1,15 +1,15 @@
-const request = new XMLHttpRequest();
-
-setInterval(() => {
-    var j = document.createElement('script');
-    var url = 'http://www.kmoni.bosai.go.jp/webservice/hypo/eew/20220316233830.json';
-  
-    j.setAttribute('src', url);
-    j.setAttribute('type', 'text/javascript');
-    var re = document.getElementsByTagName('body')[0].appendChild(j);
-    console.log(re)
-    return false;
-  }, 1000);
+// const request = new XMLHttpRequest();
+//
+// setInterval(() => {
+//     var j = document.createElement('script');
+//     var url = 'http://www.kmoni.bosai.go.jp/webservice/hypo/eew/20220316233830.json';
+//
+//     j.setAttribute('src', url);
+//     j.setAttribute('type', 'text/javascript');
+//     var re = document.getElementsByTagName('body')[0].appendChild(j);
+//     console.log(re)
+//     return false;
+//   }, 1000);
 
 //반복문 예전코드
     // var url = 'http://www.kmoni.bosai.go.jp/webservice/hypo/eew/20220316233830.json';
